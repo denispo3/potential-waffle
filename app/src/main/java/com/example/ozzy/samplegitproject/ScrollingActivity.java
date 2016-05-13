@@ -41,6 +41,7 @@ public class ScrollingActivity extends AppCompatActivity {
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         // one more comment
+        // github edit
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
