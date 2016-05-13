@@ -40,6 +40,7 @@ public class ScrollingActivity extends AppCompatActivity {
         // Handle action bar item clicks here. The action bar will
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
+        // github edit
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
